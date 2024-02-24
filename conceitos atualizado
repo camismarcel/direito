@@ -14,7 +14,10 @@ Neutralidade de Rede: baseia-se no príncipio da igualdade; ou seja, que todo o 
 
 Sistema de Arquivos: é a estrutura dos computadores para armazenar e organizar dados em dispositivos de armazenamento, definindo como esses dados serão organizados e quem poderá acessá-los. 
 
-Memória (computação): 
+Memória (computação): Trata-se de todos os dispositivos que possuem a capacidade de armazenar informações, de maneira temporária ou permanente. A memória principal de um computador é compreendida como a memória RAM - ter "mais RAM" significa que mais dados podem ser acessados e lidos quase instantaneamente, sem a necessidade de serem gravados no disco rígido.  
+
+Variável (computação): representa um local, um espaço na memória física ou virtual de um programa no qual diferentes tipos de dados (compreendidos como valores) são armazenados durante a execução de um programa, ou seja, elas servem como contêiners para esses valores que podem ser modificados ao longo da execução do programa. 
+
 REFERÊNCIAS BIBLIOGRÁFICAS
 https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-cloud-storage
 https://www.techtudo.com.br/dicas-e-tutoriais/2023/12/o-que-e-algoritmo-entenda-como-funciona-em-apps-e-sites-da-internet-edsoftwares.ghtml
@@ -26,3 +29,9 @@ https://4infra.com.br/o-que-e-um-servidor-em-computacao/
 https://www.controle.net/faq/o-que-sao-servidores#:~:text=Um%20servidor%20%C3%A9%20um%20computador,disks%20internos%20ou%20mem%C3%B3rias%20SSD.
 https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-cloud-storage
 https://www.pontotel.com.br/armazenamento-em-nuvem/#:~:text=O%20armazenamento%20em%20nuvem%20trata,usu%C3%A1rio%20tenha%20acesso%20a%20internet.
+https://br.crucial.com/articles/about-memory/support-what-does-computer-memory-do#:~:text=A%20RAM%20permite%20que%20o,voc%C3%AA%20est%C3%A1%20em%20cada%20tarefa.
+https://ossegredosdainformatica.blogspot.com/2012/10/memorias-de-computador-tipos-funcoes.html
+https://ebaconline.com.br/blog/variaveis-na-programacao-seo
+https://www.kingston.com/br/blog/personal-storage/understanding-file-systems#:~:text=Um%20sistema%20de%20arquivos%20%C3%A9,organizados%20no%20dispositivo%20de%20armazenamento.
+https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml
+https://dtnetwork.com.br/o-que-significa-neutralidade-da-rede/
