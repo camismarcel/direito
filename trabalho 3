@@ -2,3 +2,13 @@ a. A Lei Geral de Proteção de Dados (LGPD) trata-se de uma legislação brasil
 b.. Formato de arquivos de dados podem ser de dois tipos: proprietários, que são caracterizados como fechados, ou seja, apenas o desenvolvedor original tem acesso total às especificações do formato, o que o torna limitado; e os abertos, cujas especificações são disponíveis ao público e podem ser acessadas, utilizadas e modificadas por qualquer pessoa.
   b.1. Alguns exemplos de arquivos de dados abertos podem ser compreendidos como: o formato de documento portátil (PDF), formato de imagem (PNG) e formato de documento do OpenDocument (ODF).  Já no que tange os formatos proprietários, alguns exemplos são: o formato .psd (Adobe Photoshop), o .ai (Adobe Illustrator) e o .docx (Microsoft Word) 
 	b.2 Quando dados públicos acabam por ser armazenados em formato proprietário, há uma acessibilidade limitada - para aqueles que não possuem o software específico para acessar e manipular o arquivo, além de acabar por se tornarem incompatíveis com outros sistemas e aplicativos, além do risco de obsolescência. Por outro lado, caso sejam armazenados em formato aberto, as barreiras de acesso são reduzidas e estes dados têm a maior possibilidade de serem preservados e acessíveis a longo prazo. 
+
+REFERÊNCIAS 
+https://www.artbackup.com.br/blog/o-papel-dos-data-centers-na-protecao-de-dados/
+https://panoramamercantil.com.br/os-impactos-da-lgpd-para-os-data-centers/
+https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/#:~:text=Home-,Rela%C3%A7%C3%A3o%20entre%20Data%20Center%20e%20a,de%20Prote%C3%A7%C3%A3o%20de%20Dados%20(LGPD)&text=A%20Lei%20Geral%20de%20Prote%C3%A7%C3%A3o%20de%20Dados%20(LGPD)%20obriga%20as,a%20administra%C3%A7%C3%A3o%20do%20Data%20Center.
+https://www.lgpdbrasil.com.br/quais-os-impactos-da-lgpd-para-os-data-centers/
+https://pt.wikipedia.org/wiki/Lei_Geral_de_Prote%C3%A7%C3%A3o_de_Dados_Pessoais
+https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html#:~:text=Os%20formatos%20propriet%C3%A1rios%20representam%20a,podem%20ser%20conhecidas%20por%20todos.
+https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/
+
