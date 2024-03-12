@@ -1,0 +1,42 @@
+•	As 3 linguagens de programação analisadas são, respectivamente: Phyton, Java e Javascript. 
+
+Python é conhecido por sua sintaxe simples e legibilidade, o que o torna uma ótima escolha para iniciantes, utilizada também em caso de projetos rápidos e prototipagem. Por outro lado, não possui tipagem estática, o que pode gerar erros em tempo de execução, além de geralmente ser mais lenta que Java, mas com bibliotecas otimizadas para tarefas específicas. Sua sintaxe é simples e fácil de aprender, com foco na legibilidade. 
+
+Java: Robusta e escalável, ideal para desenvolvimento de grandes sistemas (Android, Spring), software empresarial e aplicações bancárias. Uma das maiores vantagens do Java é sua portabilidade, o que significa que os programas escritos em Java podem ser executados em qualquer plataforma que tenha uma máquina virtual Java instalada. Sua sintaxe é mais complexa e verbosa, o que exige mais atenção à digitação. 
+
+Javascript: é uma linguagem de script que é executada diretamente pelos navegadores da web. Ela é usada principalmente para adicionar interatividade e dinamismo a páginas da web.  Essencial para interatividade em sites e aplicações web (front-end), também usada em desenvolvimento back-end (Node.js) e desenvolvimento de jogos (Unity). Sua sintaxe é  flexível, com diferentes estilos de escrita e possibilidades.
+asdasdas
+
+Phyton
+# Imprime "Olá, mundo!"
+print("Olá, mundo!")
+
+# Soma dois números
+numero1 = 10
+numero2 = 5
+soma = numero1 + numero2
+print(f"A soma de {numero1} e {numero2} é {soma}")
+
+Java
+public class OlaMundo {
+  public static void main(String[] args) {
+    // Imprime "Olá, mundo!"
+    System.out.println("Olá, mundo!");
+
+    // Soma dois números
+    int numero1 = 10;
+    int numero2 = 5;
+    int soma = numero1 + numero2;
+    System.out.println("A soma de " + numero1 + " e " + numero2 + " é " + soma);
+  }
+}
+
+JavaScript
+// Imprime "Olá, mundo!"
+console.log("Olá, mundo!");
+
+// Soma dois números
+const numero1 = 10;
+const numero2 = 5;
+const soma = numero1 + numero2;
+console.log(`A soma de ${numero1} e ${numero2} é ${soma}`);
