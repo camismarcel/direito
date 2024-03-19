@@ -1,0 +1,30 @@
+Código de loop (Estrutura de repetição):
+# Estrutura de Repetição (Loop)
+for i in range(1, 6):
+    print(i)
+
+Código de tomada de decisão (condicional):
+# Estrutura de Tomada de Decisão (Condicional)
+numero = int(input("Digite um número: "))
+
+if numero % 2 == 0:
+    print("O número é par.")
+else:
+    print("O número é ímpar.")
+
+
+Execução dos códigos:
+Estrutura de repetição:
+1
+2
+3
+4
+5
+
+=== Code Execution Successful ===
+
+Estrutura de tomada de decisão: 
+Digite um número: 4
+O número é par.
+
+=== Code Execution Successful ===
