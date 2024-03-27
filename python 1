@@ -1,0 +1,31 @@
+# Exemplo 1: Utilizando operador and
+x = 5
+y = 10
+z = 15
+resultado_and = (x < y) and (y < z)
+print("Resultado do operador and:", resultado_and)  # Saída: True, porque ambas as condições são verdadeiras
+
+Neste exemplo, o código utiliza o operador `and` para verificar duas condições em conjunto. Aqui está a ordem de procedência dos operadores:
+
+1. Parênteses: `(x < y)` e `(y < z)`
+2. Comparação (`<`): `x < y` e `y < z`
+3. Operador lógico `and`: `(x < y) and (y < z)`
+
+Então, a expressão é avaliada primeiro dentro dos parênteses, depois as comparações são feitas e, por fim, o operador `and` é aplicado para avaliar a verdade das duas comparações em conjunto.
+
+# Exemplo 3: Modificando a ordem das operações lógicas
+x = 5
+y = 10
+z = 15
+resultado = x < y and y < z or x < z
+print("Resultado:", resultado)
+
+As operações são agrupadas usando parênteses para modificar a ordem de avaliação. O Python avalia expressões dentro de parênteses antes de qualquer outra coisa, então a ordem de avaliação é:
+
+Parênteses internos: (x < y) e (y < z)
+Operadores and e or: (x < y) and (y < z), ... or (x < z)
+Dessa forma, a expressão x < y and y < z será avaliada primeiro, e então o resultado dessa expressão será combinado com a expressão x < z usando o operador or.
+
+
+
+
